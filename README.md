@@ -4,8 +4,7 @@ Welcome to my GitHub! I'm a web developer focused on front-end technologies. Rig
 
 ### 🔧 Technologies I Use:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css)
 
 ### 📈 GitHub Stats:
 
@@ -13,11 +12,11 @@ Welcome to my GitHub! I'm a web developer focused on front-end technologies. Rig
 
 ### 🌱 Currently Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js)
 
 ### 🚀 Planning to Learn in the Future:
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)
 
 ---
 
