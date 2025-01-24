@@ -1,23 +1,24 @@
-<h1 align="center">🌟 Double M 7 🌟</h1>
+# Hi there, I'm Double M 7 👋
 
-## 🚀 About Me  
-🔥 Learning **JavaScript** and improving my web development skills.  
-💻 Already know **HTML & CSS** and using them to build cool projects.  
-🎯 Future goals: **Master React & TailwindCSS** to create powerful, modern websites.  
+Welcome to my GitHub! I'm a web developer focused on front-end technologies. Right now, I'm diving deep into JavaScript, and in the future, I plan to learn React and TailwindCSS to enhance my web development skills.
 
-## 📚 What I Know  
-✅ **HTML & CSS** – Structuring and styling web pages.  
-🛠️ **JavaScript** (in progress) – Making websites dynamic and interactive.  
+### 🔧 Technologies I Use:
 
-## 🌱 What I’m Learning  
-🔹 **JavaScript** – Getting better every day.  
-🔹 **React** – Next step to mastering frontend development.  
-🔹 **TailwindCSS** – For fast and responsive UI design.  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## 🎯 My Approach  
-⚡ Focused on **real projects** to sharpen my skills.  
-⚡ Always **grinding and improving** to build better websites.  
+
+### 📈 GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMM7&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### 🌱 Currently Learning:
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+### 🚀 Planning to Learn in the Future:
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)](https://skillicons.dev)
 
 ---
 
-🚀 **Big plans ahead!** One step at a time, but always moving forward.  
+Feel free to check out my repositories and explore my projects. Let's connect through GitHub and collaborate on cool web development ideas!
