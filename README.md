@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a web developer focused on front-end technologies. Right now, I'm diving deep into JavaScript, and in the future, I plan to learn React and TailwindCSS to enhance my web development skills.
 
-### 🔧 Technologies I Use:
+### 🌐 Web Technologies I Use:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 
