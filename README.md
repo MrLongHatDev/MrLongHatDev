@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a self-taught web developer focused on front-end techn
 
 ## 🚀 Planning to Learn in the Future:
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)
+![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nextjs)
 
 ---
 
