@@ -1,27 +1,25 @@
-# Hi there, I'm M. Mahallati 👋
+# 👨‍💻 LongHatDev
 
-Welcome to my GitHub! I'm a self-taught web developer focused on front-end technologies. Right now, I'm diving deep into JavaScript, and in the future, I plan to learn React and TailwindCSS to enhance my web development skills.
+Welcome to my GitHub! I'm *LongHatDev*, a game developer with a passion for coding, creativity, and, of course, *cool hats*. 🎩
 
-## 🌐 Web Technologies I Use:
+I’m currently focused on building the foundations of my game development journey using Unity and C#. As I work through different projects, I aim to improve my skills in 3D game development, level design, and creating unique player experiences.
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css)
+## 🚀 What I'm Working On
 
-## 📈 GitHub Stats:
+- **Game Development**: Exploring 3D game mechanics and how to create immersive worlds in Unity.
+- **Level Design**: Currently focused on designing maps using ProBuilder and learning to create functional and visually engaging levels.
+- **Game Art**: Improving my skills in digital art and learning how to design assets for game environments.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMM7&show_icons=true&count_private=true&hide=prs&theme=radical)
+## 🧠 My Skills
 
-## 🌱 Currently Learning:
+- **Languages**: JavaScript, c# (still building proficiency)
+- **Game Engines**: Unity (main focus)
+- **Tools**: Visual Studio Code, ProBuilder, Git, Unity
+- **Game Design**: Level creation, basic game mechanics, map design, and world-building
 
-![My Skills](https://skillicons.dev/icons?i=js)
+## 🏆 Fun Facts About Me
 
-### 📚 Follow My JavaScript Learning Journey:  
-🔗 <a href="https://github.com/MrMM7/Javascript-Playground" target="_blank" rel="noopener noreferrer">JavaScript Playground</a>
+- I’m constantly working to improve my coding skills and game development knowledge.
+- I’m passionate about game design and always looking for new ways to challenge myself creatively.
+- I prefer to work on my projects and am always seeking ways to enhance my abilities, even if it means learning new tools or concepts.
 
-## 🚀 Planning to Learn in the Future:
-
-![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nextjs)
-
----
-
-### 🔥 Let's Connect!
-Feel free to check out my repositories and explore my projects. I'm always open to collaboration and new ideas in web development!
