@@ -12,7 +12,7 @@ I’m currently focused on building the foundations of my game development journ
 
 ## 🧠 My Skills
 
-- **Languages**: JavaScript, c# (still building proficiency)
+- **Languages**: JavaScript, Python (very little), C# (still building proficiency)
 - **Game Engines**: Unity (main focus)
 - **Tools**: Visual Studio Code, ProBuilder, Git, Unity
 - **Game Design**: Level creation, basic game mechanics, map design, and world-building
